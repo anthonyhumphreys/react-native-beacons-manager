@@ -1,7 +1,7 @@
 {
   "name": "react-native-beacons-manager",
   "version": "1.1.0",
-  "description": "React-Native library for detecting beacons (iOS and Android)",
+  "description": "FORKED React-Native library for detecting beacons (iOS and Android)",
   "keywords": [
     "react-native",
     "react-component",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MacKentoch/react-native-beacons-manager.git"
+    "url": "git+https://github.com/anthonyhumphreys/react-native-beacons-manager.git"
   },
   "typescript": {
     "definition": "typings/react-native-beacons-manager.d.ts"
